@@ -3,7 +3,7 @@
 Solo mobile & full-stack developer. I design, build and ship cross-platform products end to end — Android, iOS, macOS, Windows, Linux.
 
 ### What I do
-I build full products solo: mobile apps, desktop apps, and the backend/infra behind them. Shipped work includes [FantasyFlix](https://github.com/rao-2005/FantasyFlix-Releases) (movies/series streaming, six platforms) and [FantasyRealm](https://github.com/rao-2005/FantasyRealm-Releases) (anime/manga streaming + reader). Current focus: offline-first networking (Orbi), multi-path file transfer (Pravega), and AI tooling (JARVIS).
+I build full products solo: mobile apps, desktop apps, and the backend/infra behind them. Shipped work includes [FantasyFlix](https://github.com/rao-2005/FantasyFlix-Releases) (movies/series streaming, six platforms) and [FantasyRealm](https://github.com/rao-2005/FantasyRealm-Releases) (anime/manga streaming + reader). Current focus: offline-first networking (Orbi), multi-path file transfer ([Pravega](https://getpravega.vercel.app)), and AI tooling (JARVIS).
 
 ### Selected work
 | Project | What it does | Platforms |
